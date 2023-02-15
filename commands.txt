@@ -1,0 +1,7 @@
+syntax mkdir
+git log
+git log --onename
+git commit
+git add
+git status
+
