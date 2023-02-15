@@ -1,13 +1,17 @@
 syntax mkdir
 git log
-git log --onename
-git commit
 git add
 git status
-using cricketrs names
 dhoni
 kholi
 raina
 jedaga
 ashwin
+rahu
+yuvaraj
+patail
+panth
+kife
+sachine
+rohit
 
